@@ -8,7 +8,7 @@ Nvm can be used to manager various node versions, very useful to develop web app
 * Step 3: Unzip & click on installer
 	* Step 3.1: Restart any opened terminal to refresh the config
 * Step 4: Check if nvm properly installed, In new command prompt type "nvm"
-* Step 5: Install Node.js using nvm : nvm install <version> : The version can be a Node.js version or "latest" for the latest stable version
+* Step 5: Install Node.js using nvm : `nvm install <version>` : The version can be a Node.js version or "latest" for the latest stable version
 * Step 6: check node version:
 	
   > `node -v`
